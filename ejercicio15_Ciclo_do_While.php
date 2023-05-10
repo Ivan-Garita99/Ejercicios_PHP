@@ -8,5 +8,4 @@
 
     }while($numeroInicial<=10)
 
-
 ?>
